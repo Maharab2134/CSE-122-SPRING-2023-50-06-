@@ -1,3 +1,6 @@
+//poblem Number: 50A
+//Povlem Name: Domino piling
+
 #include<bits/stdc++.h>
 using namespace std;
  
