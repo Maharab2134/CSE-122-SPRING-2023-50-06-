@@ -1,3 +1,6 @@
+//poblem Number: 71A
+//Povlem Name: Way Too Long Words
+
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
